@@ -205,13 +205,15 @@ GitHub: @F4bthreat-dev
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
-## ⭐ Agradecimentos
+## ServerWatch
 
-- [Flask](https://flask.palletsprojects.com/) - Framework web para Python
-- [psutil](https://github.com/giampaolo/psutil) - Coleta de métricas do sistema
-- [Chart.js](https://www.chartjs.org/) - Gráficos interativos
-- [Bootstrap](https://getbootstrap.com/) - Framework CSS responsivo
-- [Font Awesome](https://fontawesome.com/) - Biblioteca de ícones
+## Agradecimentos
+
+- Flask - https://flask.palletsprojects.com/
+- psutil - https://github.com/giampaolo/psutil
+- Chart.js - https://www.chartjs.org/
+- Bootstrap - https://getbootstrap.com/
+- Font Awesome - https://fontawesome.com/
 
 Agradecimentos especiais à comunidade open-source por disponibilizar essas ferramentas incríveis!
 
