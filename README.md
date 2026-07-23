@@ -172,17 +172,13 @@ pip install -r requirements.txt
 
 http://localhost:5000
 
-📊 Como Usar
+## 📊 Como Usar
 
-🖥️ Dashboard
+### 🖥️ Dashboard
 
-Acesse: http://localhost:5000
-
-Visualize: Todas as métricas atualizando automaticamente
-
-Analise: Gráficos mostram histórico dos últimos 60 segundos
-
-Monitore: Processos mais ativos do sistema
+1. Execute: `python app.py`
+2. Acesse: `http://localhost:5000`
+3. Visualize as métricas em tempo real
 
 🔗 API REST
 
