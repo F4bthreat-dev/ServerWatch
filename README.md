@@ -183,52 +183,15 @@ Analise: Gráficos mostram histórico dos últimos 60 segundos
 Monitore: Processos mais ativos do sistema
 
 🔗 API REST
-📌 Métricas do Sistema
-http
-GET /api/metrics
-Resposta (exemplo):
 
-json
-{
-  "cpu": {
-    "avg_usage": 15.2,
-    "cores": 8,
-    "frequency": { "current": 2800 }
-  },
-  "memory": {
-    "total": 17112809472,
-    "used": 9258446848,
-    "percentage": 54.1
-  },
-  "disk": {
-    "disks": [
-      { "device": "C:\\", "percent": 45.2 },
-      { "device": "D:\\", "percent": 30.1 }
-    ],
-    "total_percent": 38.7,
-    "count": 2
-  },
-  "network": {
-    "bytes_sent": 532083336,
-    "bytes_recv": 20936837439
-  },
-  "processes": [
-    { "name": "python.exe", "cpu_percent": 68.4 },
-    { "name": "chrome.exe", "cpu_percent": 11.4 }
-  ]
-}
-📌 Health Check
-http
-GET /api/health
-Resposta:
+O ServerWatch oferece endpoints RESTful:
 
-json
-{
-  "status": "healthy",
-  "app": "ServerWatch",
-  "version": "1.0.0",
-  "author": "f4bthreat-dev (Fabriccio 'Threatfull')"
-}
+- **GET /api/metrics** - Retorna todas as métricas do sistema em JSON
+- **GET /api/health** - Verifica o status do servidor
+
+**Exemplo:**
+```bash
+curl http://localhost:5000/api/metrics
 
 
 👨‍💻 Autor
@@ -237,8 +200,10 @@ Fabriccio "Threatfull"
 GitHub: @F4bthreat-dev
 
 
+
 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
 
 ⭐ Agradecimentos
 
