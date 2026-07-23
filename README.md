@@ -150,7 +150,7 @@ ServerWatch/
 git clone https://github.com/F4bthreat-dev/ServerWatch.git
 cd ServerWatch
 
-2. Crie um ambiente virtual
+### 2. Crie um ambiente virtual ⭐
 
 # Windows
 python -m venv venv
@@ -160,7 +160,8 @@ venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate
 
-3. Instale as dependências
+
+### 3. Instale as dependências
 
 pip install -r requirements.txt
 
@@ -168,11 +169,13 @@ pip install -r requirements.txt
 
 ## 📊 Como Usar
 
+
 ### 🖥️ Dashboard
 
 1. Execute: `python app.py`
 2. Acesse: `http://localhost:5000`
 3. Visualize as métricas em tempo real
+
 
 
 🔗 API REST
