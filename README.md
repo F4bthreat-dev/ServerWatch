@@ -117,25 +117,21 @@ Este projeto foi desenvolvido por **f4bthreat-dev (Fabriccio "Threatfull")** com
 
 ## 📂 Estrutura do Projeto
 
+```
 ServerWatch/
-│
-├── app.py # Aplicação principal (Flask + API)
-├── requirements.txt # Dependências do Python
-├── README.md # Documentação do projeto
-├── LICENSE # Licença MIT
-├── .gitignore # Arquivos ignorados pelo Git
-│
-├── static/ # Arquivos estáticos (frontend)
-│ ├── css/
-│ │ └── style.css # Estilos personalizados
-│ └── js/
-│ └── dashboard.js # Lógica do frontend (AJAX + Chart.js)
-│
-├── templates/
-│ └── index.html # Interface principal do dashboard
-│
-└── images/ # Screenshots do projeto (opcional)
-└── dashboard.png
+├── app.py                 # Aplicação principal (Flask + API)
+├── requirements.txt       # Dependências do Python
+├── README.md              # Documentação do projeto
+├── LICENSE                # Licença MIT
+├── .gitignore             # Arquivos ignorados pelo Git
+├── static/
+│   ├── css/
+│   │   └── style.css      # Estilos personalizados
+│   └── js/
+│       └── dashboard.js   # Lógica do frontend
+└── templates/
+    └── index.html         # Interface principal do dashboard
+```
 
 ---
 
@@ -191,7 +187,8 @@ O ServerWatch oferece endpoints RESTful:
  http://localhost:5000/api/metrics
 
 
-###👨‍💻 Autor
+
+👨‍💻 Autor
 Fabriccio "Threatfull"
 
 GitHub: @F4bthreat-dev
