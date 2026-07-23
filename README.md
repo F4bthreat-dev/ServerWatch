@@ -204,17 +204,15 @@ O ServerWatch oferece endpoints RESTful:
  http://localhost:5000/api/metrics
 
 
-## 👨‍💻 Autor
+👨‍💻 Autor
+Fabriccio "Threatfull"
 
-<strong>Fabriccio "Threatfull"</strong>
+GitHub: @F4bthreat-dev
 
-<strong>GitHub:</strong> <a href="https://github.com/F4bthreat-dev">@F4bthreat-dev</a>
 
----
 
-## 📄 Licença
-
-Este projeto está sob a <strong>licença MIT</strong>.
+📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
 
