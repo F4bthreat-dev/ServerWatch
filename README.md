@@ -205,17 +205,8 @@ GitHub: @F4bthreat-dev
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
-## ServerWatch
 
-## Agradecimentos
-
-- Flask - https://flask.palletsprojects.com/
-- psutil - https://github.com/giampaolo/psutil
-- Chart.js - https://www.chartjs.org/
-- Bootstrap - https://getbootstrap.com/
-- Font Awesome - https://fontawesome.com/
-
-Agradecimentos especiais à comunidade open-source por disponibilizar essas ferramentas incríveis!
+Agradecimentos especiais à comunidade open-source por disponibilizar ferramentas incríveis!
 
 Desenvolvido com ❤️ por f4bthreat-dev (Fabriccio "Threatfull")
 
