@@ -207,11 +207,11 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## ⭐ Agradecimentos
 
-- **[Flask](https://flask.palletsprojects.com/)** - Framework web para Python
-- **[psutil](https://github.com/giampaolo/psutil)** - Coleta de métricas do sistema
-- **[Chart.js](https://www.chartjs.org/)** - Gráficos interativos
-- **[Bootstrap](https://getbootstrap.com/)** - Framework CSS responsivo
-- **[Font Awesome](https://fontawesome.com/)** - Biblioteca de ícones
+- [Flask](https://flask.palletsprojects.com/) - Framework web para Python
+- [psutil](https://github.com/giampaolo/psutil) - Coleta de métricas do sistema
+- [Chart.js](https://www.chartjs.org/) - Gráficos interativos
+- [Bootstrap](https://getbootstrap.com/) - Framework CSS responsivo
+- [Font Awesome](https://fontawesome.com/) - Biblioteca de ícones
 
 Agradecimentos especiais à comunidade open-source por disponibilizar essas ferramentas incríveis!
 
