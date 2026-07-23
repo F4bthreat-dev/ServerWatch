@@ -90,15 +90,15 @@ Este projeto foi desenvolvido por **f4bthreat-dev (Fabriccio "Threatfull")** com
 - ✅ Endpoint `/api/health` - Status do servidor
 - ✅ Respostas em JSON para integrações
 
-Veja abaixo o **ServerWatch** em funcionamento!
+## 📸 Screenshots
 
 ### Dashboard Principal
-![Dashboard Principal](https://i.imgur.com/ng36w41.png)
+![Dashboard Principal](https://i.imgur.com/m6Bygsy.png)
 
-*Visão geral do dashboard com métricas de CPU, memória, armazenamento e rede.*
+*Visão geral do dashboard com métricas de CPU, memória, armazenamento (múltiplos discos) e rede.*
 
 ### Gráficos e Processos
-![Gráficos e Processos](https://i.imgur.com/0cbZn8O.png)
+![Gráficos e Processos](https://i.imgur.com/jp3mBpr.png)
 
 *Gráficos históricos de CPU, memória e rede, além da lista de processos em execução.*
 
