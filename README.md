@@ -25,6 +25,18 @@
 - [📄 Licença](#-licença)
 
 ---
+## 📸 Screenshots
+
+### Dashboard Principal
+![Dashboard Principal](https://i.imgur.com/m6Bygsy.png)
+
+*Visão geral do dashboard com métricas de CPU, memória, armazenamento (múltiplos discos) e rede.*
+
+### Gráficos e Processos
+![Gráficos e Processos](https://i.imgur.com/jp3mBpr.png)
+
+*Gráficos históricos de CPU, memória e rede, além da lista de processos em execução.*
+
 
 ## 📖 Sobre o Projeto
 
@@ -90,18 +102,6 @@ Este projeto foi desenvolvido por **f4bthreat-dev (Fabriccio "Threatfull")** com
 - ✅ Endpoint `/api/health` - Status do servidor
 - ✅ Respostas em JSON para integrações
 
-
-## 📸 Screenshots
-
-### Dashboard Principal
-![Dashboard Principal](https://i.imgur.com/m6Bygsy.png)
-
-*Visão geral do dashboard com métricas de CPU, memória, armazenamento (múltiplos discos) e rede.*
-
-### Gráficos e Processos
-![Gráficos e Processos](https://i.imgur.com/jp3mBpr.png)
-
-*Gráficos históricos de CPU, memória e rede, além da lista de processos em execução.*
 
 ---
 
