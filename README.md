@@ -25,18 +25,6 @@
 - [📄 Licença](#-licença)
 
 ---
-## 📸 Screenshots
-
-### Dashboard Principal
-![Dashboard Principal](https://i.imgur.com/m6Bygsy.png)
-
-*Visão geral do dashboard com métricas de CPU, memória, armazenamento (múltiplos discos) e rede.*
-
-### Gráficos e Processos
-![Gráficos e Processos](https://i.imgur.com/jp3mBpr.png)
-
-*Gráficos históricos de CPU, memória e rede, além da lista de processos em execução.*
-
 
 ## 📖 Sobre o Projeto
 
@@ -49,6 +37,18 @@ Este projeto foi desenvolvido por **f4bthreat-dev (Fabriccio "Threatfull")** com
 - **Aprendizado prático:** Aplicação de conceitos de Python, Flask e JavaScript em um projeto real
 - **Resolução de problemas:** Criar uma ferramenta útil para administradores de sistemas
 - **Portfólio profissional:** Demonstrar habilidades técnicas e capacidade de entregar projetos completos
+
+## 📸 Screenshots
+
+### Dashboard Principal
+![Dashboard Principal](https://i.imgur.com/m6Bygsy.png)
+
+*Visão geral do dashboard com métricas de CPU, memória, armazenamento (múltiplos discos) e rede.*
+
+### Gráficos e Processos
+![Gráficos e Processos](https://i.imgur.com/jp3mBpr.png)
+
+*Gráficos históricos de CPU, memória e rede, além da lista de processos em execução.*
 
 ---
 
