@@ -213,6 +213,8 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 - **[Bootstrap](https://getbootstrap.com/)** - Framework CSS responsivo
 - **[Font Awesome](https://fontawesome.com/)** - Biblioteca de ícones
 
+Agradecimentos especiais à comunidade open-source por disponibilizar essas ferramentas incríveis!
+
 Desenvolvido com ❤️ por f4bthreat-dev (Fabriccio "Threatfull")
 
 ⭐ Se você gostou, dê uma estrela no GitHub! ⭐
