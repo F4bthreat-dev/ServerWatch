@@ -90,6 +90,7 @@ Este projeto foi desenvolvido por **f4bthreat-dev (Fabriccio "Threatfull")** com
 - ✅ Endpoint `/api/health` - Status do servidor
 - ✅ Respostas em JSON para integrações
 
+
 ## 📸 Screenshots
 
 ### Dashboard Principal
