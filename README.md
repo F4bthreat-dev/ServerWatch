@@ -148,6 +148,7 @@ ServerWatch/
 #### 1. Clone o repositório
 
 git clone https://github.com/F4bthreat-dev/ServerWatch.git
+
 cd ServerWatch
 
 ### 2. Crie um ambiente virtual ⭐
