@@ -168,9 +168,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-4. Execute a aplicação
 
-http://localhost:5000
 
 ## 📊 Como Usar
 
@@ -179,6 +177,7 @@ http://localhost:5000
 1. Execute: `python app.py`
 2. Acesse: `http://localhost:5000`
 3. Visualize as métricas em tempo real
+
 
 🔗 API REST
 
