@@ -188,10 +188,10 @@ O ServerWatch oferece endpoints RESTful:
 
 **Exemplo:**
 ```bash
-curl http://localhost:5000/api/metrics
+ http://localhost:5000/api/metrics
 
 
-👨‍💻 Autor
+###👨‍💻 Autor
 Fabriccio "Threatfull"
 
 GitHub: @F4bthreat-dev
