@@ -173,7 +173,9 @@ pip install -r requirements.txt
 http://localhost:5000
 
 📊 Como Usar
+
 🖥️ Dashboard
+
 Acesse: http://localhost:5000
 
 Visualize: Todas as métricas atualizando automaticamente
